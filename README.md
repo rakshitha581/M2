@@ -12,9 +12,11 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![Screenshot 2025-05-14 213625](https://github.com/user-attachments/assets/bf280809-7518-4b69-bee6-7a0ba9275cac)
 
 ## OUTPUT:
 
+![Screenshot 2025-05-14 213643](https://github.com/user-attachments/assets/674bfc45-ab4f-444c-8803-93b7dd03b953)
 
 
 
@@ -45,10 +47,12 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
+![Screenshot 2025-05-14 213657](https://github.com/user-attachments/assets/32681191-4e61-4ed6-a102-bc14f8da481c)
 
 
 ## OUTPUT:
 
+![Screenshot 2025-05-14 213711](https://github.com/user-attachments/assets/cee8cdd4-ceb5-4a94-bf11-1b93c1f68cd0)
 
 
 
@@ -74,10 +78,12 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
+![Screenshot 2025-05-14 213739](https://github.com/user-attachments/assets/a52bf2a7-1acb-4fbd-8018-625e1d8acc42)
 
 
 ## OUTPUT:
 
+![Screenshot 2025-05-14 213751](https://github.com/user-attachments/assets/11302604-1bb3-44d1-b6c7-44c2cec3f51c)
 
 
 
@@ -107,8 +113,10 @@ Write a c program to find the sum of odd digits using for loop
 
 ## PROGRAM:
 
+![Screenshot 2025-05-14 213918](https://github.com/user-attachments/assets/74f689c9-16a6-47f7-82e7-47a292fa7999)
 
 ## OUTPUT:
+![Screenshot 2025-05-14 213939](https://github.com/user-attachments/assets/4e62cafb-d5b7-47ef-994e-eb2ba5740d92)
 
 
 
@@ -137,8 +145,10 @@ d.	After the loop, print the factorial value.
 
 ## PROGRAM:
 
+![Screenshot 2025-05-14 214002](https://github.com/user-attachments/assets/32df07e6-ea97-47ac-a1ed-72558ce19a23)
 
 ## OUTPUT:
+![Screenshot 2025-05-14 214032](https://github.com/user-attachments/assets/5b270ce7-c060-493f-9927-b5d5d5608e44)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
